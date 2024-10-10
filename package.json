@@ -1,0 +1,31 @@
+{
+  "name": "openai-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwaisKamran/openai-realtime-api.git"
+  },
+  "keywords": [
+    "openai",
+    "node"
+  ],
+  "author": "Awais Kamran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwaisKamran/openai-realtime-api/issues"
+  },
+  "homepage": "https://github.com/AwaisKamran/openai-realtime-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7",
+    "openai": "^4.67.1",
+    "ws": "^8.18.0"
+  }
+}
