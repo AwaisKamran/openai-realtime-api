@@ -15,6 +15,7 @@ To get started with this project, follow these steps:
 3. Set up your OpenAI API key in the `.env` file.
 4. run `node index.mjs` to run a text conversation example
 5. run `node index-audio-files.mjs` to run a audio conversation example with user audio files.
+6. run `node index-audio-microphone.mjs` to run a audio conversation example with microphone.
 
 ## Contributing
 
